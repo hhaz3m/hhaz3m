@@ -1,7 +1,7 @@
 ### <div align="center">I'm Hazem, a full-time Roblox developer 👨‍💻 working on Roblox games since 2018. 🚀 (i have lost accounts)</div>  
   
 
-- 💻I have been doing LUA since i was 12, oh wow Hazem, you have grown so much since then. You are 16 now!  
+- 💻I have been doing LUA since i was 12, oh wow Hazem, you have grown so much since then. You are 17 now!  
   
 
 - 🌱 I am currently learning CSS, JS and PY.  
